@@ -29,7 +29,7 @@ const App = () => {
   
   return (
     <div>
-      <h1>Supabase Data</h1>
+      <h1>Harsh Jain</h1>
       <ul>
         {data.map((item) => (
           <li key={item.id}>{JSON.stringify(item)}</li>
